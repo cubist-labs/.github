@@ -1,7 +1,7 @@
 Cubist is a developer tools and infrastructure company bringing modern software
 engineering practices and first-class security to web3 builders.
 
-The [Cubist SDK and CLI](https://github.com/cubist-dev/cubist) (alpha) make it
+The [Cubist SDK and CLI](https://github.com/cubist-labs/cubist) (alpha) make it
 easy to build, test, and deploy secure web3 applications that run across
 multiple chains.
 
