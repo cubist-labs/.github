@@ -1,14 +1,1 @@
-Cubist is a developer tools and infrastructure company bringing modern software
-engineering practices and first-class security to web3 builders.
-
-The [Cubist SDK and CLI](https://github.com/cubist-labs/cubist) (alpha) make it
-easy to build, test, and deploy secure web3 applications that run across
-multiple chains.
-
-Resources:
-
-- [Official documentation](https://docs.cubist.dev/)
-- SDKs: [Rust](https://docs.cubist.dev/rustdoc/cubist_sdk/), [Node.js](https://docs.cubist.dev/jsdoc)
-- [Ask a question](https://github.com/orgs/cubist-labs/discussions)
-- [Join our Discord](https://discord.gg/FpjBKkzhKb)
-- [Get early access to future products](https://cubist.dev/early-access)
+Cubist is a key management technology provider specializing in high-performance, security-critical use cases such as DeFi protocols, staking, and cross-chain bridging—and safe investor access to these ecosystems. This is a critical service for teams who care about security _and_ performance: CubeSigner delivers a 200x performance improvement over the status quo while protecting against the most serious attackers.
